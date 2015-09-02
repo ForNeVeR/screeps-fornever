@@ -1,0 +1,20 @@
+{
+  "name": "fornever-screeps",
+  "version": "0.0.1",
+  "description": "Screeps AI repository.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "grunt typescript:compile",
+    "upload": "grunt upload"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "Friedrich von Never",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-screeps": "^1.1.0",
+    "grunt-typescript": "^0.7.0"
+  }
+}
