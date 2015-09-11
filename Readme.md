@@ -12,6 +12,6 @@ Uploading
 Copy `credentials.json.example` to `credentials.json`, fill it with your
 credentials. After that
 
-    npm upload
+    npm run upload
 
 [screeps]: https://screeps.com
